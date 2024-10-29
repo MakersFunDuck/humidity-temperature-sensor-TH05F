@@ -2,7 +2,7 @@
 [![russian](https://img.shields.io/badge/also%20available%20in-russian-blue?style=for-the-badge)](README-ru.md)
 
 # BTHome THB1, THB2, THB3, BTH01, TH05 (HW: v1.3..1.6), TH05F
-
+This is a fork from :https://github.com/pvvx/THB2
 Custom firmware for Tuya devices based on the PHY622x2 chipset.
 
 | [THB1](https://pvvx.github.io/THB1) | [THB2](https://pvvx.github.io/THB2) | [THB3](https://pvvx.github.io/THB3) | [BTH01](https://pvvx.github.io/BTH01/) | [TH05_V1.3](https://pvvx.github.io/TH05-v1.3) | [TH05_V1.4](https://pvvx.github.io/TH-05) | [TH05F](https://pvvx.github.io/TH05F) |
